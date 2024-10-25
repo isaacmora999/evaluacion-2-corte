@@ -1,0 +1,7 @@
+C:\Users\Isaac Mora\source\repos\ejericico 7 evaluacion\ejericico 7 evaluacion\bin\Debug\ejericico 7 evaluacion.exe.config
+C:\Users\Isaac Mora\source\repos\ejericico 7 evaluacion\ejericico 7 evaluacion\bin\Debug\ejericico 7 evaluacion.exe
+C:\Users\Isaac Mora\source\repos\ejericico 7 evaluacion\ejericico 7 evaluacion\bin\Debug\ejericico 7 evaluacion.pdb
+C:\Users\Isaac Mora\source\repos\ejericico 7 evaluacion\ejericico 7 evaluacion\obj\Debug\ejericico 7 evaluacion.csproj.AssemblyReference.cache
+C:\Users\Isaac Mora\source\repos\ejericico 7 evaluacion\ejericico 7 evaluacion\obj\Debug\ejericico 7 evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Mora\source\repos\ejericico 7 evaluacion\ejericico 7 evaluacion\obj\Debug\ejericico 7 evaluacion.exe
+C:\Users\Isaac Mora\source\repos\ejericico 7 evaluacion\ejericico 7 evaluacion\obj\Debug\ejericico 7 evaluacion.pdb
