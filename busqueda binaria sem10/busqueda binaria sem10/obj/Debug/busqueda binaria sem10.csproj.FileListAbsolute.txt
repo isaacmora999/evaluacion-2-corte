@@ -1,0 +1,7 @@
+C:\Users\Isaac Mora\source\repos\busqueda binaria sem10\busqueda binaria sem10\bin\Debug\busqueda binaria sem10.exe.config
+C:\Users\Isaac Mora\source\repos\busqueda binaria sem10\busqueda binaria sem10\bin\Debug\busqueda binaria sem10.exe
+C:\Users\Isaac Mora\source\repos\busqueda binaria sem10\busqueda binaria sem10\bin\Debug\busqueda binaria sem10.pdb
+C:\Users\Isaac Mora\source\repos\busqueda binaria sem10\busqueda binaria sem10\obj\Debug\busqueda binaria sem10.csproj.AssemblyReference.cache
+C:\Users\Isaac Mora\source\repos\busqueda binaria sem10\busqueda binaria sem10\obj\Debug\busqueda binaria sem10.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Mora\source\repos\busqueda binaria sem10\busqueda binaria sem10\obj\Debug\busqueda binaria sem10.exe
+C:\Users\Isaac Mora\source\repos\busqueda binaria sem10\busqueda binaria sem10\obj\Debug\busqueda binaria sem10.pdb
